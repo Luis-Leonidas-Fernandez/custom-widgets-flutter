@@ -1,0 +1,1 @@
+export 'package:custom_widget_design/presentation/views/card_view.dart';

@@ -1,0 +1,45 @@
+{
+    "estudiantes": [
+      {
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "direccion": "Calle Falsa 123",
+        "edad": 20,
+        "sexo": "Masculino",
+        "pais": "España"
+      },
+      {
+        "nombre": "Ana",
+        "apellido": "García",
+        "direccion": "Avenida Siempreviva 742",
+        "edad": 22,
+        "sexo": "Femenino",
+        "pais": "México"
+      },
+      {
+        "nombre": "Luis",
+        "apellido": "Martínez",
+        "direccion": "Carrera de la Virgen 56",
+        "edad": 19,
+        "sexo": "Masculino",
+        "pais": "Argentina"
+      },
+      {
+        "nombre": "Maria",
+        "apellido": "Lopez",
+        "direccion": "Camino de las Rosas 14",
+        "edad": 21,
+        "sexo": "Femenino",
+        "pais": "Colombia"
+      },
+      {
+        "nombre": "Carlos",
+        "apellido": "González",
+        "direccion": "Plaza Mayor 5",
+        "edad": 23,
+        "sexo": "Masculino",
+        "pais": "Chile"
+      }
+    ]
+  }
+  

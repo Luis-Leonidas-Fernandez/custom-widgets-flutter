@@ -1,0 +1,39 @@
+{
+    "preguntas": [
+      {
+        "area": "Matemáticas",
+        "pregunta": "¿La hipotenusa al cuadrado es igual a la suma al cuadrado de los catetos?",
+        "opciones": ["10", "11", "12", "13"],
+        "respuesta_correcta": true,
+        "imagen":"assets/math.png"
+      },
+      {
+        "area": "Ciencias",
+        "pregunta": "¿Cuál es el elemento más abundante en la atmósfera terrestre?",
+        "opciones": ["Oxígeno", "Hidrógeno", "Nitrógeno", "Carbono"],
+        "respuesta_correcta": false,
+        "imagen":""
+      },
+      {
+        "area": "Historia",
+        "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "opciones": ["1914", "1939", "1945", "1963"],
+        "respuesta_correcta": false,
+        "imagen":""
+      },
+      {
+        "area": "Geografía",
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": ["Nilo", "Amazonas", "Yangtsé", "Misisipi"],
+        "respuesta_correcta": true,
+        "imagen":""
+      },
+      {
+        "area": "Literatura",
+        "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+        "opciones": ["Gabriel García Márquez", "Mario Vargas Llosa", "Julio Cortázar", "Jorge Luis Borges"],
+        "respuesta_correcta": false,
+        "imagen":""
+      }
+    ]
+  }
